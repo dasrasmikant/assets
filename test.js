@@ -1,1 +1,1 @@
-console.log("This is for testing");
+console.log("Version is 1.0 and This is a stable version");
